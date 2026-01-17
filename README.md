@@ -1,5 +1,6 @@
 # mini-mechanics
 Welcome to Mini Mechanics Website!
+https://minimechanics.github.io/mini-mechanics/#
 
 # Mini Mechanics — Static site
 
