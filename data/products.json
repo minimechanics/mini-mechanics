@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": "card-001",
+      "name": "Turbo Noir — Custom Card Series #01",
+      "short": "Hand-finished Hot Wheels card with metallic ink and embossed plating.",
+      "long": "A limited-edition custom card created for collectors. Metallic foiling, hand-numbered backplate, archival coating. Includes certificate of authenticity and archival sleeve.",
+      "category": "Custom Cards",
+      "slug": "cards",
+      "limited": "25",
+      "image": "assets/images/cards/turbo-noir.jpg",
+      "tags": ["hot wheels","card","foil","limited","collectible"]
+    },
+    {
+      "id": "garage-001",
+      "name": "Industrial Atelier Diorama — Module A",
+      "short": "Studio-grade mini diorama with LED backlighting and weathered detail.",
+      "long": "A 1:64 scale diorama garage handcrafted from resin, metal, and mixed media. Integrated warm/cool LED accents, removable vehicle mount, and hard case for shipping.",
+      "category": "Diorama Garages",
+      "slug": "garages",
+      "limited": "Made to Order",
+      "image": "assets/images/dioramas/atelier-a.jpg",
+      "tags": ["diorama","garage","led","studio"]
+    },
+    {
+      "id": "keychain-001",
+      "name": "Industrial Key — Brass Hot Wheels Keychain",
+      "short": "Brass & powder-coat keychain with industrial clasp.",
+      "long": "A tactile keychain crafted in solid brass with powder-coated accents. Engineered to handle daily wear while keeping a collector aesthetic.",
+      "category": "Keychains",
+      "slug": "keychains",
+      "limited": "Open Edition",
+      "image": "assets/images/keychains/brass-key.jpg",
+      "tags": ["keychain","brass","hot wheels","industrial"]
+    },
+    {
+      "id": "lanyard-001",
+      "name": "Tact Lanyard — Urban Camo",
+      "short": "Tactical webbing lanyard with quick-release and ID window.",
+      "long": "A high-durability lanyard built from military-grade webbing and aviation hardware. Designed for carrying keys, mini tools, or display keys for conventions.",
+      "category": "Tactical Lanyards",
+      "slug": "lanyards",
+      "limited": "Open Edition",
+      "image": "assets/images/lanyards/tact-camo.jpg",
+      "tags": ["lanyard","tactical","lego"]
+    },
+    {
+      "id": "framed-001",
+      "name": "Framed Miniature — Retro Racer",
+      "short": "Archival framed LEGO miniature with museum-grade mount.",
+      "long": "An iconic LEGO mini reimagined as a framed gallery piece. Archival matting, museum glass, and brushed steel frame. Ready to hang.",
+      "category": "Framed Miniatures",
+      "slug": "framed",
+      "limited": "12",
+      "image": "assets/images/framed/retro-racer.jpg",
+      "tags": ["framed","lego","gallery","miniature"]
+    }
+  ],
+  "dioramas": [
+    {
+      "title": "Atelier Module A",
+      "desc": "Industrial assembly bay with warm tungsten accents.",
+      "image": "assets/images/dioramas/atelier-a.jpg"
+    },
+    {
+      "title": "Night Shift Bay",
+      "desc": "Nocturnal scene with neon highlights and smog haze.",
+      "image": "assets/images/dioramas/night-shift.jpg"
+    }
+  ],
+  "framed": [
+    {
+      "title": "Retro Racer (Framed)",
+      "desc": "Archival frame, 25x25cm.",
+      "image": "assets/images/framed/retro-racer.jpg"
+    },
+    {
+      "title": "Chrome Pilot (Framed)",
+      "desc": "Limited, hand-numbered.",
+      "image": "assets/images/framed/chrome-pilot.jpg"
+    }
+  ]
+}
